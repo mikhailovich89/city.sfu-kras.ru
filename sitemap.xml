@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://edu.sfu.tilda.ws/</loc>
+		<lastmod>2020-03-12T10:14:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://edu.sfu.tilda.ws/edu</loc>
+		<lastmod>2020-03-12T10:17:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://edu.sfu.tilda.ws/science</loc>
+		<lastmod>2020-03-12T10:15:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://edu.sfu.tilda.ws/culture</loc>
+		<lastmod>2020-03-12T10:15:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://edu.sfu.tilda.ws/life</loc>
+		<lastmod>2020-03-12T10:16:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://edu.sfu.tilda.ws/sport</loc>
+		<lastmod>2020-03-12T10:16:08+00:00</lastmod>
+	</url>
+</urlset>
